@@ -14,7 +14,7 @@
 
 ### 数据样例
 
-![data](./data.BMP)
+![data2](./image/data2.BMP)
 
 ### 数据标签样例
 
